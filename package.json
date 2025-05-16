@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abidat77/nodejs-hw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abidat77/nodejs-hw/issues"
+  },
+  "homepage": "https://github.com/abidat77/nodejs-hw#readme",
+  "dependencies": {
+    "@abidat77/ajs-hw": "^1.0.0"
+  }
+}
